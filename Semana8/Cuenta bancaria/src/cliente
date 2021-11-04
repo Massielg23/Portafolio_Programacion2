@@ -1,0 +1,9 @@
+public class cliente extends cuenta {
+    public string nombre;
+    pulbic string apellido;
+    public cliente (double saldoInicial){
+        super (saldoInicial);
+        
+    }
+
+}
